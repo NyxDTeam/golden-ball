@@ -1,0 +1,6 @@
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\Golden_Ball.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\staticwebassets\Golden_Ball.StaticWebAssets.Manifest.cache
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\staticwebassets\Golden_Ball.StaticWebAssets.xml
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\Golden_Ball.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\Golden_Ball.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Golden_Ball\Golden_Ball\obj\Debug\netcoreapp3.1\Golden_Ball.AssemblyInfo.cs
