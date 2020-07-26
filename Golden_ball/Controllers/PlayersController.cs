@@ -1,9 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace Golden_Ball.Controllers
 {
@@ -27,10 +23,6 @@ namespace Golden_Ball.Controllers
                 return NotFound();
             }
             return Ok(playerToReturn);
-        }
-        
+        }      
     }
-    
-
 }
-    
